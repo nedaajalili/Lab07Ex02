@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511283115 source:/home/neda/Desktop/Lab07Ex02D/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
